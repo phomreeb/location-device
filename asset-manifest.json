@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/location-device/static/css/main.06251e8d.css",
+    "main.js": "/location-device/static/js/main.7f347096.js",
+    "static/js/453.eb554a75.chunk.js": "/location-device/static/js/453.eb554a75.chunk.js",
+    "static/media/pin-55.svg": "/location-device/static/media/pin-55.dd1956996550b2826215479e13c61f65.svg",
+    "index.html": "/location-device/index.html",
+    "main.06251e8d.css.map": "/location-device/static/css/main.06251e8d.css.map",
+    "main.7f347096.js.map": "/location-device/static/js/main.7f347096.js.map",
+    "453.eb554a75.chunk.js.map": "/location-device/static/js/453.eb554a75.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06251e8d.css",
+    "static/js/main.7f347096.js"
+  ]
+}
